@@ -1,0 +1,14 @@
+# Environment variables
+.env
+.env.*     # e.g. .env.local, .env.production
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+venv/
+.envrc
